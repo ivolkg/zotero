@@ -9,11 +9,11 @@
 // - modify it via the UI (e.g. via about:config in the browser); or
 // - set it within a user.js file in your profile.
 
-user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1679620697);
-user_pref("app.update.lastUpdateTime.background-update-timer", 1679620937);
-user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1679620817);
-user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1679663777);
-user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1679621057);
+user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1679878511);
+user_pref("app.update.lastUpdateTime.background-update-timer", 1679878705);
+user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1679878585);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1679947044);
+user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1679878825);
 user_pref("browser.cache.disk.capacity", 358400);
 user_pref("browser.cache.disk.filesystem_reported", 1);
 user_pref("browser.dom.window.dump.enabled", false);
@@ -33,24 +33,20 @@ user_pref("extensions.zotero.export.translatorSettings", "{\"keepUpdated\":true,
 user_pref("extensions.zotero.firstRun.skipFirefoxProfileAccessCheck", true);
 user_pref("extensions.zotero.firstRun2", false);
 user_pref("extensions.zotero.ignoreLegacyDataDir.auto", true);
-user_pref("extensions.zotero.lastViewedFolder", "C3");
+user_pref("extensions.zotero.lastViewedFolder", "C1");
 user_pref("extensions.zotero.night.enabled", true);
-user_pref("extensions.zotero.pane.persist", "{\"zotero-reader-sidebar-pane\":{\"collapsed\":\"false\",\"width\":\"240\"},\"zotero-collections-pane\":{\"width\":\"253\"},\"zotero-tags-splitter\":{},\"zotero-tag-selector-container\":{},\"zotero-collections-splitter\":{},\"zotero-layout-switcher\":{\"orient\":\"horizontal\"},\"zotero-items-pane\":{\"width\":\"1151\"},\"zotero-items-splitter\":{\"state\":\"\",\"orient\":\"horizontal\"},\"zotero-item-pane\":{\"width\":\"502\",\"height\":\"300\"},\"zotero-context-splitter\":{\"state\":\"collapsed\"},\"zotero-context-pane\":{},\"zotero-context-splitter-stacked\":{\"state\":\"open\"},\"zotero-context-pane-inner\":{}}");
+user_pref("extensions.zotero.pane.persist", "{\"zotero-reader-sidebar-pane\":{\"collapsed\":\"false\",\"width\":\"240\"},\"zotero-collections-pane\":{\"width\":\"253\"},\"zotero-tags-splitter\":{},\"zotero-tag-selector-container\":{},\"zotero-collections-splitter\":{},\"zotero-layout-switcher\":{\"orient\":\"horizontal\"},\"zotero-items-pane\":{\"width\":\"1151\"},\"zotero-items-splitter\":{\"orient\":\"horizontal\"},\"zotero-item-pane\":{\"width\":\"502\",\"height\":\"300\"},\"zotero-context-splitter\":{\"state\":\"collapsed\"},\"zotero-context-pane\":{},\"zotero-context-splitter-stacked\":{\"state\":\"open\"},\"zotero-context-pane-inner\":{}}");
 user_pref("extensions.zotero.prefVersion", 6);
-user_pref("extensions.zotero.purge.creators", true);
-user_pref("extensions.zotero.purge.items", true);
-user_pref("extensions.zotero.purge.tags", true);
-user_pref("extensions.zotero.recentSaveTargets", "[{\"id\":\"C5\",\"sessionID\":\"Cs1xisNt\"},{\"id\":\"L1\",\"sessionID\":\"uBplK8Qj\"},{\"id\":\"C4\",\"sessionID\":\"dx3LtRNV\"},{\"id\":\"C3\",\"sessionID\":\"7qlIPnkv\"},{\"id\":\"C3\",\"sessionID\":\"YGFLWIt8\"},{\"id\":\"C3\",\"sessionID\":\"sJHM9C58\"}]");
-user_pref("extensions.zotero.sourceList.persist", "{\"L1\":true,\"P1\":false,\"C2\":true}");
+user_pref("extensions.zotero.recentSaveTargets", "[{\"id\":\"C3\",\"sessionID\":\"sJHM9C58\"},{\"id\":\"C3\",\"sessionID\":\"7qlIPnkv\"},{\"id\":\"C3\",\"sessionID\":\"YGFLWIt8\"},{\"id\":\"C5\",\"sessionID\":\"Cs1xisNt\"},{\"id\":\"L1\",\"sessionID\":\"uBplK8Qj\"},{\"id\":\"C4\",\"sessionID\":\"dx3LtRNV\"}]");
+user_pref("extensions.zotero.sourceList.persist", "{\"L1\":true,\"P1\":false,\"C2\":true,\"C1\":true}");
 user_pref("extensions.zotero.sync.reminder.setUp.lastDisplayed", 1679364328);
-user_pref("extensions.zotero.translators.better-bibtex.citekeyFormat", "auth.lower + shorttitle(3,3) + year");
-user_pref("extensions.zotero.translators.better-bibtex.citekeyFormatBackup", "auth.lower + shorttitle(3,3) + year");
+user_pref("extensions.zotero.translators.better-bibtex.citekeyFormatEditing", "auth.lower + shorttitle(3,3) + year");
 user_pref("extensions.zotero.translators.better-bibtex.platform", "lin");
 user_pref("extensions.zotero.useDataDir", true);
 user_pref("extensions.zotfile.source_dir_ff", false);
 user_pref("extensions.zotfile.version", "5.1.2");
 user_pref("gecko.handlerService.migrated", true);
-user_pref("idle.lastDailyNotification", 1679620855);
+user_pref("idle.lastDailyNotification", 1679878783);
 user_pref("intl.accept_languages", "en-US, en");
 user_pref("media.gmp.storage.version.observed", 1);
 user_pref("network.cookie.prefsMigrated", true);
